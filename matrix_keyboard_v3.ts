@@ -88,7 +88,7 @@ namespace Emakefun {
   //% block="create matrix keyboard|I2C address = $i2c_address"
   //% subcategory="MatrixKeyboard"
   //% blockSetVariable=matrix_keyboard
-  //% i2c_address.defl=0x50
+  //% i2c_address.defl=0x65
   //% weight=100
   //% inlineInputMode=external
   export function createMatrixKeyboard(i2c_address: number = DEFAULT_I2C_ADDRESS): MatrixKeyboard {
