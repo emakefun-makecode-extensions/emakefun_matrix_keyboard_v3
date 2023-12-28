@@ -1,0 +1,22 @@
+{
+    "name": "Emakefun Matrix Keyboard V3",
+    "version": "3.0.0",
+    "description": "Emakefun Matrix Keyboard V3",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "matrix_keyboard_v3.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
