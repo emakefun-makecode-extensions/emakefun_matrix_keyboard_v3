@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "matrix_keyboard_v3.ts"
+        "matrix_keyboard_v3.ts",
+        "_locales/zh/Emakefun Matrix Keyboard V3-jsdoc-strings.json",
+        "_locales/zh/Emakefun Matrix Keyboard V3-strings.json"
     ],
     "testFiles": [
         "test.ts"
