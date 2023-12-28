@@ -8,22 +8,22 @@ namespace Emakefun {
    * Enum for matrix keyboard keys.
    */
   export enum MatrixKeyboardKey {
-    KEY_0 = (1 << 7),
-    KEY_1 = (1 << 0),
-    KEY_2 = (1 << 4),
-    KEY_3 = (1 << 8),
-    KEY_4 = (1 << 1),
-    KEY_5 = (1 << 5),
-    KEY_6 = (1 << 9),
-    KEY_7 = (1 << 2),
-    KEY_8 = (1 << 6),
-    KEY_9 = (1 << 10),
-    KEY_A = (1 << 12),
-    KEY_B = (1 << 13),
-    KEY_C = (1 << 14),
-    KEY_D = (1 << 15),
-    KEY_ASTERISK = (1 << 3),
-    KEY_NUMBER_SIGN = (1 << 11),
+    KEY_0 = 1 << 7,
+    KEY_1 = 1 << 0,
+    KEY_2 = 1 << 4,
+    KEY_3 = 1 << 8,
+    KEY_4 = 1 << 1,
+    KEY_5 = 1 << 5,
+    KEY_6 = 1 << 9,
+    KEY_7 = 1 << 2,
+    KEY_8 = 1 << 6,
+    KEY_9 = 1 << 10,
+    KEY_A = 1 << 12,
+    KEY_B = 1 << 13,
+    KEY_C = 1 << 14,
+    KEY_D = 1 << 15,
+    KEY_ASTERISK = 1 << 3,
+    KEY_NUMBER_SIGN = 1 << 11,
   }
 
   export class MatrixKeyboard {
