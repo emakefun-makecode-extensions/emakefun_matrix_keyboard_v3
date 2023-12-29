@@ -1,5 +1,5 @@
 //% block="Emakefun"
-namespace Emakefun {
+namespace emakefun {
 
   /** Default I2C address */
   const DEFAULT_I2C_ADDRESS: number = 0x65

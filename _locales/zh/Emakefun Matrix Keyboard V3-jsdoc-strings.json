@@ -1,5 +1,5 @@
 {
-  "Emakefun.MatrixKeyboard.isClicked": "检测按键是否被按下",
-  "Emakefun.MatrixKeyboardKey": "按键值",
-  "Emakefun.createMatrixKeyboard": "创建矩阵键盘实例,默认I2C地址为0x65(十进制为101)"
+  "emakefun.MatrixKeyboard.isClicked": "检测按键是否被按下",
+  "emakefun.MatrixKeyboardKey": "按键值",
+  "emakefun.createMatrixKeyboard": "创建矩阵键盘实例,默认I2C地址为0x65(十进制为101)"
 }
